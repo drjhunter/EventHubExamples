@@ -1,0 +1,16 @@
+D:\source\eventhub\eventhubsender\obj\Debug\netcoreapp3.0\eventhubsender.csprojAssemblyReference.cache
+D:\source\eventhub\eventhubsender\obj\Debug\netcoreapp3.0\eventhubsender.AssemblyInfoInputs.cache
+D:\source\eventhub\eventhubsender\obj\Debug\netcoreapp3.0\eventhubsender.AssemblyInfo.cs
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\eventhubsender.exe
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\eventhubsender.deps.json
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\eventhubsender.runtimeconfig.json
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\eventhubsender.runtimeconfig.dev.json
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\eventhubsender.dll
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\eventhubsender.pdb
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\Azure.Core.dll
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\Azure.Messaging.EventHubs.dll
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\Microsoft.Azure.Amqp.dll
+D:\source\eventhub\eventhubsender\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source\eventhub\eventhubsender\obj\Debug\netcoreapp3.0\eventhubsender.csproj.CopyComplete
+D:\source\eventhub\eventhubsender\obj\Debug\netcoreapp3.0\eventhubsender.dll
+D:\source\eventhub\eventhubsender\obj\Debug\netcoreapp3.0\eventhubsender.pdb
