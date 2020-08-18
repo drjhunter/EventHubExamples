@@ -8,6 +8,8 @@ using Azure.Messaging.EventHubs.Processor;
 
 namespace eventhubreceiver
 {
+    // Skillpipe example uses EventProcessorHost instead of EventProcessorClient
+    // Similar functionality other than how you register event handlers
     class Program
     {
         private const string ehubNamespaceConnectionString = "Endpoint=sb://localtests.servicebus.windows.net/;SharedAccessKeyName=ReceiverPolicy;SharedAccessKey=qKeU0Fbe3XdJtarl2o9rJLufIycanHtt4ASFemdr7Rc=";
